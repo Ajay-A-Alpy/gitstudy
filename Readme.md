@@ -2,4 +2,5 @@
 
 start your git study
 
-be a pro
+
+become a pro of git
